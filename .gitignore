@@ -1,0 +1,25 @@
+
+# Ignore compiled executables
+*.exe
+*.out
+*.o
+*.class
+*.bin
+*.dll
+*.so
+*.a
+*.pyc
+*.pyo
+*.o
+
+
+# Ignore build artifacts
+build/
+dist/
+__pycache__/
+# Build output folders
+bin/
+obj/
+# Ignore IDE specific files
+.vscode/
+

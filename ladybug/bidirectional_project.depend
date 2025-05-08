@@ -1,0 +1,415 @@
+# depslib dependency file v1.0
+1742826966 source:/home/group5/bidirectional_project/audio.cpp
+	"header.h"
+
+1743896941 
+
+1743175075 /home/group5/bidirectional_project/header.h
+	<iostream>
+	<vector>
+	<wiringPi.h>
+	<RF24/RF24.h>
+	<thread>
+	<mutex>
+	<termios.h>
+	<unistd.h>
+	<fstream>
+	<cstring>
+	<cstdlib>
+	<assert.h>
+	<errno.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"c2file.h"
+	"codec2.h"
+	"whisper.h"
+	<string>
+	<alsa/asoundlib.h>
+	"dr_wav.h"
+	<sstream>
+
+1741783413 /home/group5/codec2/src/c2file.h
+
+1741784965 /home/group5/codec2/src/codec2.h
+	"version.h"
+	<stdbool.h>
+
+1741784965 >
+
+1741783460 /home/group5/codec2/src/version.h
+
+1743176750 source:/home/group5/bidirectional_project/main.cpp
+	"header.h"
+
+1742824880 source:/home/group5/bidirectional_project/radio.cpp
+	"header.h"
+
+1743175113 source:/home/group5/bidirectional_project/text.cpp
+	"header.h"
+
+1742830358 source:/home/group5/bidirectional_project/alsa.cpp
+	"header.h"
+
+1743175075 source:/home/group5/bidirectional_project/screen.cpp
+	"header.h"
+
+1743894657 source:/home/group5/bidirectional_ladybug/alsa.cpp
+	"alsa.h"
+
+1743874615 /home/group5/bidirectional_ladybug/header.h
+	<iostream>
+	<vector>
+	<wiringPi.h>
+	<RF24/RF24.h>
+	<thread>
+	<mutex>
+	<termios.h>
+	<unistd.h>
+	<fstream>
+	<cstring>
+	<cstdlib>
+	<assert.h>
+	<errno.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"c2file.h"
+	"codec2.h"
+	"whisper.h"
+	<string>
+	<alsa/asoundlib.h>
+	"dr_wav.h"
+	<sstream>
+
+1743896941 source:/home/group5/bidirectional_ladybug/audio.cpp
+	"audio.h"
+
+1743889481 source:/home/group5/bidirectional_ladybug/screen.cpp
+	"screen.h"
+
+1743896941 source:/home/group5/bidirectional_ladybug/text.cpp
+	"text.h"
+
+1743894657 source:/home/group5/bidirectional_ladybug/radio.cpp
+	"radio.h"
+
+1743889480 source:/home/group5/bidirectional_ladybug/main.cpp
+	"main.h"
+
+1743894657 /home/group5/bidirectional_ladybug/alsa.h
+	<iostream>
+	<fstream>
+	<vector>
+	<alsa/asoundlib.h>
+	"dr_wav.h"
+
+1743891592 /home/group5/bidirectional_ladybug/radio.h
+	<iostream>
+	<fstream>
+	<string>
+	<cstring>
+	<unistd.h>
+	<thread>
+	<mutex>
+	<RF24/RF24.h>
+	"audio.h"
+	"text.h"
+	"screen.h"
+
+1743890572 /home/group5/bidirectional_ladybug/screen.h
+	<iostream>
+	<sstream>
+	<string>
+	<unistd.h>
+	<fcntl.h>
+
+1743891564 /home/group5/bidirectional_ladybug/audio.h
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<cstring>
+	<cassert>
+	<cstdlib>
+	<mutex>
+	"dr_wav.h"
+	"codec2.h"
+	"alsa.h"
+	"radio.h"
+
+1743891564 /home/group5/bidirectional_ladybug/main.h
+	<iostream>
+	<fstream>
+	<string>
+	<thread>
+	<fcntl.h>
+	<mutex>
+	<unistd.h>
+	<termios.h>
+	<wiringPi.h>
+	<RF24/RF24.h>
+
+1743891564 .h>
+
+1743891636 /home/group5/bidirectional_ladybug/text.h
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<cstdlib>
+	"alsa.h"
+	"radio.h"
+	"whisper.h"
+
+1743891636 "
+
+1743894657 source:c:\users\lee loo bee\downloads\bidirectional_ladybug\bidirectional_ladybug\alsa.cpp
+	"alsa.h"
+
+1743938909 c:\users\lee loo bee\downloads\bidirectional_ladybug\bidirectional_ladybug\alsa.h
+	<iostream>
+	<fstream>
+	<vector>
+	<alsa/asoundlib.h>
+	"dr_wav.h"
+
+1743896941 source:c:\users\lee loo bee\downloads\bidirectional_ladybug\bidirectional_ladybug\audio.cpp
+	"audio.h"
+
+1743891564 c:\users\lee loo bee\downloads\bidirectional_ladybug\bidirectional_ladybug\audio.h
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<cstring>
+	<cassert>
+	<cstdlib>
+	<mutex>
+	"dr_wav.h"
+	"codec2.h"
+	"alsa.h"
+	"radio.h"
+
+1743891592 c:\users\lee loo bee\downloads\bidirectional_ladybug\bidirectional_ladybug\radio.h
+	<iostream>
+	<fstream>
+	<string>
+	<cstring>
+	<unistd.h>
+	<thread>
+	<mutex>
+	<RF24/RF24.h>
+	"audio.h"
+	"text.h"
+	"screen.h"
+
+1743891636 c:\users\lee loo bee\downloads\bidirectional_ladybug\bidirectional_ladybug\text.h
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<cstdlib>
+	"alsa.h"
+	"radio.h"
+	"whisper.h"
+
+1743890572 c:\users\lee loo bee\downloads\bidirectional_ladybug\bidirectional_ladybug\screen.h
+	<iostream>
+	<sstream>
+	<string>
+	<unistd.h>
+	<fcntl.h>
+
+1743889480 source:c:\users\lee loo bee\downloads\bidirectional_ladybug\bidirectional_ladybug\main.cpp
+	"main.h"
+
+1743891564 c:\users\lee loo bee\downloads\bidirectional_ladybug\bidirectional_ladybug\main.h
+	<iostream>
+	<fstream>
+	<string>
+	<thread>
+	<fcntl.h>
+	<mutex>
+	<unistd.h>
+	<termios.h>
+	<wiringPi.h>
+	<RF24/RF24.h>
+
+1743894657 source:c:\users\lee loo bee\downloads\bidirectional_ladybug\bidirectional_ladybug\radio.cpp
+	"radio.h"
+
+1743889481 source:c:\users\lee loo bee\downloads\bidirectional_ladybug\bidirectional_ladybug\screen.cpp
+	"screen.h"
+
+1743896941 source:c:\users\lee loo bee\downloads\bidirectional_ladybug\bidirectional_ladybug\text.cpp
+	"text.h"
+
+1743894657 source:/home/group5/Downloads/bidirectional_ladybug/radio.cpp
+	"radio.h"
+
+1743891592 /home/group5/Downloads/bidirectional_ladybug/radio.h
+	<iostream>
+	<fstream>
+	<string>
+	<cstring>
+	<unistd.h>
+	<thread>
+	<mutex>
+	<RF24/RF24.h>
+	"audio.h"
+	"text.h"
+	"screen.h"
+
+1743891564 /home/group5/Downloads/bidirectional_ladybug/audio.h
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<cstring>
+	<cassert>
+	<cstdlib>
+	<mutex>
+	"dr_wav.h"
+	"codec2.h"
+	"alsa.h"
+	"radio.h"
+
+1743938909 /home/group5/Downloads/bidirectional_ladybug/alsa.h
+	<iostream>
+	<fstream>
+	<vector>
+	<alsa/asoundlib.h>
+	"dr_wav.h"
+
+1743891636 /home/group5/Downloads/bidirectional_ladybug/text.h
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<cstdlib>
+	"alsa.h"
+	"radio.h"
+	"whisper.h"
+
+1743890572 /home/group5/Downloads/bidirectional_ladybug/screen.h
+	<iostream>
+	<sstream>
+	<string>
+	<unistd.h>
+	<fcntl.h>
+
+1743889481 source:/home/group5/Downloads/bidirectional_ladybug/screen.cpp
+	"screen.h"
+
+1743938909 source:/home/group5/Downloads/bidirectional_ladybug/alsa.cpp
+	"alsa.h"
+
+1743971481 source:/home/group5/Downloads/bidirectional_ladybug/audio.cpp
+	"audio.h"
+
+1743971483 source:/home/group5/Downloads/bidirectional_ladybug/main.cpp
+	"main.h"
+
+1743891564 /home/group5/Downloads/bidirectional_ladybug/main.h
+	<iostream>
+	<fstream>
+	<string>
+	<thread>
+	<fcntl.h>
+	<mutex>
+	<unistd.h>
+	<termios.h>
+	<wiringPi.h>
+	<RF24/RF24.h>
+
+1743971482 source:/home/group5/Downloads/bidirectional_ladybug/text.cpp
+	"text.h"
+
+1743938909 source:/home/group5/ladybug/alsa.cpp
+	"alsa.h"
+
+1743938909 /home/group5/ladybug/alsa.h
+	<iostream>
+	<fstream>
+	<vector>
+	<alsa/asoundlib.h>
+	"dr_wav.h"
+
+1744508983 source:/home/group5/ladybug/audio.cpp
+	"audio.h"
+
+1743891564 /home/group5/ladybug/audio.h
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<cstring>
+	<cassert>
+	<cstdlib>
+	<mutex>
+	"dr_wav.h"
+	"codec2.h"
+	"alsa.h"
+	"radio.h"
+
+1741784965 /home/group5/codec2/src/codec2.h
+	"version.h"
+	<stdbool.h>
+
+1741783460 /home/group5/codec2/src/version.h
+
+1744382448 /home/group5/ladybug/radio.h
+	<iostream>
+	<fstream>
+	<string>
+	<cstring>
+	<unistd.h>
+	<thread>
+	<mutex>
+	<RF24/RF24.h>
+	"audio.h"
+	"text.h"
+	"screen.h"
+
+1743891636 /home/group5/ladybug/text.h
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<cstdlib>
+	"alsa.h"
+	"radio.h"
+	"whisper.h"
+
+1744379371 /home/group5/ladybug/screen.h
+	<iostream>
+	<sstream>
+	<string>
+	<unistd.h>
+	<fcntl.h>
+
+1744379463 source:/home/group5/ladybug/main.cpp
+	"main.h"
+
+1744379371 /home/group5/ladybug/main.h
+	<iostream>
+	<fstream>
+	<string>
+	<thread>
+	<fcntl.h>
+	<mutex>
+	<unistd.h>
+	<termios.h>
+	<wiringPi.h>
+	<RF24/RF24.h>
+
+1744501667 source:/home/group5/ladybug/radio.cpp
+	"radio.h"
+
+1744381312 source:/home/group5/ladybug/screen.cpp
+	"screen.h"
+
+1743971482 source:/home/group5/ladybug/text.cpp
+	"text.h"
+
