@@ -5,9 +5,9 @@
 ## 🐞🚨 Key Features 
 
 - **Speech-to-Text (STT):** Converts spoken input into readable text in real time.
-- **Text-to-Speech (TTS):** Translates received text back into audible speech using AI-powered synthesis.
-- **Compressed Audio and Text Transmission:** Efficient communication using advanced voice codecs and compression techniques.
-- **Preset Command Library:** Commonly used phrases are available as pre-set text to speech for speed and efficiency in time critical scenarios.
+- **Text-to-Speech (TTS):** Translates received text back into audible speech using AI-powered speech synthesis eSpeak.
+- **Compressed Audio and Text Transmission:** Efficient communication using OpenAI's Whisper voice codecs and compression techniques.
+- **Preset Commands:** Commonly used phrases are available as pre-set text to speech for speed and efficiency in time critical scenarios.
 - **Emergency Command:** Blaring alarm to alert base station of danger! Must be acknowledged to shut off.
 
 ## 🐞🛠️ Integration 
